@@ -4,16 +4,16 @@
   "description": "",
   "main": "form.js",
   "scripts": {
-    "build": "browserify form.js > bundle.js"
+    "build": "browserify script.js > bundle.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NimrodM0802/contact-form.git"
+    "url": "git+https://github.com/NimrodM0802/contact-form.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NimrodM0802/contact-form/issues"
   },
-  "homepage": "https://nimrodm0802.github.io/contact-form/"
+  "homepage": "https://github.com/NimrodM0802/contact-form#readme"
 }
