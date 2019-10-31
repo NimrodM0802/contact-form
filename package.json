@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NimrodM0802/contact-form/issues"
   },
-  "homepage": "https://github.com/NimrodM0802/contact-form#readme"
+  "homepage": "https://github.com/NimrodM0802/contact-form#readme",
+  "dependencies": {
+    "browserify": "^16.5.0"
+  }
 }
